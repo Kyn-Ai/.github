@@ -1,12 +1,7 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HyperPi-Ai/.github/main/hyperpi-logo.png">
-  <img src="https://raw.githubusercontent.com/HyperPi-Ai/.github/main/hyperpi-logo.png"
-       alt="Hyperπ-Ai"
-       width="120"
-       style="max-width:100%;height:auto;display:block;margin:0 auto;" />
-</picture>
+<img src="https://raw.githubusercontent.com/HyperPi-Ai/.github/main/hyperpi-logo.svg"
+     alt="HyperPi-Ai" width="120" style="max-width:100%;height:auto;" />
 
 <br/>
 
