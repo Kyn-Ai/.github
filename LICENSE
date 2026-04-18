@@ -1,0 +1,46 @@
+HyperPi-Ai Proprietary License
+Version 1.0 — Effective April 18, 2026
+
+Copyright (c) 2026 HyperPi-Ai (also written as Hyperπ-Ai).
+All rights reserved.
+
+1) Default Rule (No Public License)
+Except where a separate, explicit written license is provided by HyperPi-Ai,
+all source code, text, media, design, and other repository content are
+proprietary and confidential intellectual property. No rights are granted by
+access, cloning, forking, or viewing this repository.
+
+2) No Use Without Permission
+Without prior written permission from HyperPi-Ai, you may not:
+- use, copy, modify, distribute, sublicense, publish, perform, display, sell,
+  or create derivative works from any repository content;
+- use repository content for model training, evaluation datasets, embeddings,
+  synthetic data generation, or automated profiling;
+- remove or alter attribution, ownership, or legal notices.
+
+3) Limited Exception
+If a file in this repository includes a separate explicit license text, that
+separate license governs only that file or directory. All other content remains
+proprietary.
+
+4) Enforcement (United States, India, GitHub)
+HyperPi-Ai may enforce its rights under applicable law, including without
+limitation:
+- U.S. copyright, trademark, and related laws;
+- India's Copyright Act, 1957 and Trade Marks Act, 1999;
+- platform enforcement procedures, including GitHub DMCA and trademark
+  complaint processes.
+
+Enforcement may include takedown requests, account and repository reports,
+injunctive relief, damages where available, and other lawful remedies.
+No automatic penalty is promised; remedies depend on facts and governing law.
+
+5) Reservation of Rights
+All rights not expressly granted are reserved.
+
+6) Contact
+Written permission requests and legal notices:
+legal@hyperpiai.com
+
+
+Official username: **HyperpiAi**

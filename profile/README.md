@@ -9,12 +9,14 @@
 
 **Frontier AI Research & Engineering**
 
+`Official username: HyperpiAi`
+
 <br/>
 
-[![License: MIT](https://img.shields.io/badge/Code_License-MIT-white?style=flat-square&logo=opensourceinitiative&logoColor=black)](https://github.com/HyperPi-Ai/.github/blob/main/LICENSE)
-[![Brand](https://img.shields.io/badge/Brand_Assets-Protected-red?style=flat-square&logo=shieldsdotio&logoColor=white)](https://github.com/HyperPi-Ai/.github/blob/main/BRAND-LICENSE.md)
+[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-black?style=flat-square&logo=scale&logoColor=white)](https://github.com/HyperPi-Ai/.github/blob/main/LICENSE)
+[![Brand](https://img.shields.io/badge/Brand_Assets-Protected-red?style=flat-square&logo=shieldsdotio&logoColor=white)](https://github.com/HyperPi-Ai/.github/blob/main/ASSET_LICENSE.md)
+[![Trademark](https://img.shields.io/badge/Trademark-Enforced-darkred?style=flat-square&logo=datadog&logoColor=white)](https://github.com/HyperPi-Ai/.github/blob/main/TRADEMARKS.md)
 [![Status](https://img.shields.io/badge/Status-Active_Research-brightgreen?style=flat-square)](https://github.com/HyperPi-Ai)
-[![Models](https://img.shields.io/badge/Models-Private_%2F_Coming_Soon-blueviolet?style=flat-square)](https://github.com/HyperPi-Ai)
 
 <br/>
 
@@ -28,102 +30,52 @@
 
 ## About
 
-Hyperπ-Ai is an independent frontier AI research organisation building, researching, and teaching world-class AI systems. We move with purpose, build with precision, and release on our terms.
+Hyperπ-Ai is an independent frontier AI research organization focused on building reliable, high-impact intelligent systems. We prioritize scientific depth, engineering rigor, and long-horizon execution.
 
 **We do not follow the curve — we define it.**
 
 <br/>
 
-## What We Do
+## Focus Areas
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🔬 Research**  
-Developing proprietary AI models with a relentless focus on precision, alignment, and real-world capability. Every architecture decision is deliberate.
-
-</td>
-<td width="50%" valign="top">
-
-**🏗️ Build**  
-Engineering flagship AI products across domains — agriculture, health, cognition, and beyond. Production-grade. No shortcuts.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🎓 Teach**  
-Sharing structured knowledge — concepts, architectures, applied ML — so the broader AI community grows alongside us.
-
-</td>
-<td width="50%" valign="top">
-
-**⚙️ Engineer**  
-Designing the infrastructure, tooling, and pipelines that make intelligent systems reliable, scalable, and deployable.
-
-</td>
-</tr>
-</table>
+- **Model Research** — Proprietary foundation-model research with an emphasis on capability, robustness, and alignment.
+- **Systems Engineering** — Infrastructure and tooling for scalable, production-grade intelligence.
+- **Applied AI Products** — High-utility product development across critical domains.
+- **Education** — Practical technical writing and educational artifacts for serious builders.
 
 <br/>
 
-## Our Models
+## Model Status
 
-> All HyperPπ-Ai foundation models are currently **private and in active development.**  
-> Public releases, APIs, and documentation will be announced here when models go live.
+> Hyperπ-Ai foundation models are currently **private and in active development**. Public release details (if and when announced) will appear on this profile first.
 
-| Model | Domain | Status |
+| Model Family | Scope | Availability |
 |:--|:--|:--:|
-| Hyperπ ### | ### | 🔒 Private |
-| Hyperπ ### | ### | 🔒 Private |
-| Hyperπ ### | ### | 🔒 Private |
-| Hyperπ ### | ### | 🔒 Private |
-| Hyperπ ### | ### | 🔒 Private |
+| Hyperπ Core | Foundation | 🔒 Private |
+| Hyperπ Applied | Domain Models | 🔒 Private |
+| Hyperπ Tools | Utility Models | 🔒 Private |
 
 <br/>
 
-## Philosophy
+## Operating Philosophy
 
 > *Precision over speed. Depth over noise. Build first — speak when it's real.*
 
-The most important AI systems will not be built by the loudest organisations. They will be built by those who stayed focused while everyone else was distracted.
-
-We research deeply. We build carefully. We release on our terms.
+We believe durable AI progress comes from disciplined research and uncompromising engineering standards—not noise.
 
 <br/>
 
-## What We Publish
+## Licensing & Rights
 
-While our core models remain private, we contribute to the broader ecosystem through:
-
-- **Open tooling** — utilities, developer tools, and scripts that support AI workflows
-- **Research notes** — technical write-ups, architecture explorations, and analyses  
-- **Educational content** — guides and resources for learners and practitioners
-
-<br/>
-
-## Stay Updated
-
-We do not make noise until there is something real to show.
-
-When a model ships, a product goes live, or a paper drops — **this profile is where you hear it first.**
-
-⭐ **Watch this organisation** to stay informed.
-
-<br/>
-
-## Licensing
-
-| Asset | License |
+| Asset | Terms |
 |:--|:--|
-| Code in public repositories | [MIT License](https://github.com/HyperPi-Ai/.github/blob/main/LICENSE) — free to use, modify, distribute |
-| Logo, name, brand assets | [Brand License](https://github.com/HyperPi-Ai/.github/blob/main/BRAND-LICENSE.md) — all rights reserved, modification prohibited |
-| README content & copy | [Brand License](https://github.com/HyperPi-Ai/.github/blob/main/BRAND-LICENSE.md) — reproduction prohibited |
-| Model weights & datasets | Proprietary — not publicly licensed |
+| Repository content (default) | [LICENSE](https://github.com/HyperPi-Ai/.github/blob/main/LICENSE) — proprietary unless a separate explicit written license is granted |
+| Logos, SVGs, visual identity | [ASSET_LICENSE.md](https://github.com/HyperPi-Ai/.github/blob/main/ASSET_LICENSE.md) — no reuse, modification, derivative works, or redistribution without written permission |
+| Names and marks (`HyperPi-Ai` / `Hyperπ-Ai`) | [TRADEMARKS.md](https://github.com/HyperPi-Ai/.github/blob/main/TRADEMARKS.md) — no brand use, handles, domains, or implied affiliation without authorization |
 
-> The MIT license covers **code only**. Brand assets, the logo, the name, and this profile's content are separately protected. See [`BRAND-LICENSE.md`](https://github.com/HyperPi-Ai/.github/blob/main/BRAND-LICENSE.md) for full terms and enforcement policy.
+> HyperPi-Ai and Hyperπ-Ai refer to the same organization and legal brand origin. Rights may be enforced through applicable U.S. and Indian legal channels, including GitHub DMCA/trademark mechanisms.
+
+Permission and legal contact: **legal@hyperpiai.com**
 
 <br/>
 
@@ -135,6 +87,6 @@ When a model ships, a product goes live, or a paper drops — **this profile is 
 
 <br/>
 
-*© 2026 Hyperπ-Ai — Brand assets protected. See [BRAND-LICENSE.md](https://github.com/HyperPi-Ai/.github/blob/main/BRAND-LICENSE.md)*
+*© 2026 Hyperπ-Ai — Proprietary rights reserved. See [LICENSE](https://github.com/HyperPi-Ai/.github/blob/main/LICENSE), [ASSET_LICENSE.md](https://github.com/HyperPi-Ai/.github/blob/main/ASSET_LICENSE.md), and [TRADEMARKS.md](https://github.com/HyperPi-Ai/.github/blob/main/TRADEMARKS.md).*
 
 </div>
