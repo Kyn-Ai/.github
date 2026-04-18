@@ -71,7 +71,7 @@ Designing the infrastructure, tooling, and pipelines that make intelligent syste
 
 ## Our Models
 
-> All HyperPπ-Ai foundation models are currently **private and in active development.**  
+> All Hyperπ-Ai foundation models are currently **private and in active development.**
 > Public releases, APIs, and documentation will be announced here when models go live.
 
 | Model | Domain | Status |
@@ -116,14 +116,15 @@ When a model ships, a product goes live, or a paper drops — **this profile is 
 
 ## Licensing
 
-| Asset | License |
+| Asset | Terms |
 |:--|:--|
-| Code in public repositories | [MIT License](https://github.com/HyperPi-Ai/.github/blob/main/LICENSE) — free to use, modify, distribute |
-| Logo, name, brand assets | [Brand License](https://github.com/HyperPi-Ai/.github/blob/main/BRAND-LICENSE.md) — all rights reserved, modification prohibited |
-| README content & copy | [Brand License](https://github.com/HyperPi-Ai/.github/blob/main/BRAND-LICENSE.md) — reproduction prohibited |
-| Model weights & datasets | Proprietary — not publicly licensed |
+| Repository content (default) | [Proprietary License](https://github.com/HyperPi-Ai/.github/blob/main/LICENSE) — all rights reserved unless an explicit file-level license says otherwise |
+| Logos, SVGs, brand design | [Asset License](https://github.com/HyperPi-Ai/.github/blob/main/ASSET_LICENSE.md) — no reuse, modification, derivatives, or redistribution without written permission |
+| Names & marks (HyperPi-Ai / Hyperπ-Ai) | [Trademark Policy](https://github.com/HyperPi-Ai/.github/blob/main/TRADEMARKS.md) — no implied affiliation or mark usage without permission |
+| Legal notice & enforcement references | [NOTICE.md](https://github.com/HyperPi-Ai/.github/blob/main/NOTICE.md) |
+| Privacy/anti-abuse note | [PRIVACY.md](https://github.com/HyperPi-Ai/.github/blob/main/PRIVACY.md) |
 
-> The MIT license covers **code only**. Brand assets, the logo, the name, and this profile's content are separately protected. See [`BRAND-LICENSE.md`](https://github.com/HyperPi-Ai/.github/blob/main/BRAND-LICENSE.md) for full terms and enforcement policy.
+> HyperPi-Ai and Hyperπ-Ai refer to the same organization. Unauthorized use may be enforced via U.S. and Indian legal channels and GitHub DMCA/trademark reporting processes.
 
 <br/>
 
@@ -135,6 +136,6 @@ When a model ships, a product goes live, or a paper drops — **this profile is 
 
 <br/>
 
-*© 2026 Hyperπ-Ai — Brand assets protected. See [BRAND-LICENSE.md](https://github.com/HyperPi-Ai/.github/blob/main/BRAND-LICENSE.md)*
+*© 2026 Hyperπ-Ai — Proprietary rights reserved. See [LICENSE](https://github.com/HyperPi-Ai/.github/blob/main/LICENSE), [ASSET_LICENSE.md](https://github.com/HyperPi-Ai/.github/blob/main/ASSET_LICENSE.md), and [TRADEMARKS.md](https://github.com/HyperPi-Ai/.github/blob/main/TRADEMARKS.md).*
 
 </div>
