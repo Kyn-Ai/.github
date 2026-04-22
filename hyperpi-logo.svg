@@ -1,66 +1,57 @@
-<!--
-  Official HyperPi-Ai / Hyperπ-Ai Company Logo (Proprietary)
-  Copyright (c) 2026 HyperPi-Ai and founder. All rights reserved.
-  This logo and all SVG variants are protected; no reuse, modification, derivatives,
-  or redistribution without prior written permission from HyperPi-Ai.
-  Contact: legal@hyperpiai.com
--->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 260" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 140" width="260" height="140">
   <defs>
-    <filter id="greenGlow" x="-40%" y="-40%" width="180%" height="180%">
-      <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#00FF00" flood-opacity="1"/>
-      <feDropShadow dx="0" dy="0" stdDeviation="12" flood-color="#00FF00" flood-opacity="0.8"/>
+    <filter id="glowring" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2.5" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+    <filter id="glowsoft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="5" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
     </filter>
     
     <style>
-      @keyframes neon-blink {
-        0%, 45% { filter: url(#greenGlow); }
-        48%, 52% { filter: none; }
-        55%, 58% { filter: url(#greenGlow); }
-        60%, 95% { filter: none; }
-        100% { filter: url(#greenGlow); }
+      @keyframes breathe {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.75; }
       }
-      
-      .blink-legs {
-        fill: #0c0e14;
-        animation: neon-blink 3s infinite;
+      @keyframes tickblink {
+        0%, 10% { opacity: 0; }
+        15%, 25% { opacity: 1; }
+        30%, 100%{ opacity: 0; }
       }
-      
-      .solid-structure {
-        fill: #0c0e14;
+      .crosshair-main, .crosshair-glow {
+        animation: breathe 4s ease-in-out infinite;
       }
+      /* Staggered logic for the precision ticks */
+      .tick-top { animation: tickblink 2s ease-in-out infinite; animation-delay: 0s; }
+      .tick-right { animation: tickblink 2s ease-in-out infinite; animation-delay: 0.3s; }
+      .tick-bottom { animation: tickblink 2s ease-in-out infinite; animation-delay: 0.6s; }
+      .tick-left { animation: tickblink 2s ease-in-out infinite; animation-delay: 0.9s; }
     </style>
   </defs>
-  
-  <rect width="100%" height="100%" fill="#ffffff" rx="10"/>
-  
-  <g class="blink-legs">
-    <path d="M 78,90 
-             L 45,155 
-             L 65,155 
-             L 35,235 
-             L 85,145 
-             L 65,145 
-             L 108,90 Z"/>
-    
-    <path d="M 148,90 
-             L 115,155 
-             L 135,155 
-             L 105,235 
-             L 155,145 
-             L 135,145 
-             L 178,90 Z"/>
+
+  <rect width="260" height="140" fill="#0c0e14"/>
+
+  <circle cx="70" cy="70" r="20" stroke="#ffffff" stroke-width="0.5" stroke-opacity="0.15" fill="none"/>
+
+  <g class="crosshair-glow" filter="url(#glowsoft)" opacity="0.3">
+    <circle cx="70" cy="70" r="36" stroke="#00ff9d" stroke-width="1.5" fill="none" stroke-dasharray="52 4.55 52 4.55 52 4.55 52 4.55" stroke-dashoffset="-2.275"/>
+    <circle cx="70" cy="70" r="2.5" fill="#00ff9d"/>
+    <line class="tick-top" x1="70" y1="22" x2="70" y2="30" stroke="#00ff9d" stroke-width="1.5" stroke-linecap="square"/>
+    <line class="tick-right" x1="118" y1="70" x2="110" y2="70" stroke="#00ff9d" stroke-width="1.5" stroke-linecap="square"/>
+    <line class="tick-bottom" x1="70" y1="118" x2="70" y2="110" stroke="#00ff9d" stroke-width="1.5" stroke-linecap="square"/>
+    <line class="tick-left" x1="22" y1="70" x2="30" y2="70" stroke="#00ff9d" stroke-width="1.5" stroke-linecap="square"/>
   </g>
 
-  <path class="solid-structure" d="M 45,115 
-                                   C 50,90 65,75 85,75 
-                                   L 215,75 
-                                   L 205,95 
-                                   L 85,95 
-                                   C 70,95 60,100 45,115 Z"/>
-
-  <g aria-label="ownership-watermark">
-    <text x="125" y="248" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#0c0e14" opacity="0.28">OFFICIAL LOGO · OWNED</text>
-    <text x="8" y="258" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="7" fill="#0c0e14" opacity="0.35">© HyperPi-Ai</text>
+  <g class="crosshair-main" filter="url(#glowring)">
+    <circle cx="70" cy="70" r="36" stroke="#00ff9d" stroke-width="1.5" fill="none" stroke-dasharray="52 4.55 52 4.55 52 4.55 52 4.55" stroke-dashoffset="-2.275"/>
+    <circle cx="70" cy="70" r="2.5" fill="#00ff9d"/>
+    <line class="tick-top" x1="70" y1="22" x2="70" y2="30" stroke="#00ff9d" stroke-width="1.5" stroke-linecap="square"/>
+    <line class="tick-right" x1="118" y1="70" x2="110" y2="70" stroke="#00ff9d" stroke-width="1.5" stroke-linecap="square"/>
+    <line class="tick-bottom" x1="70" y1="118" x2="70" y2="110" stroke="#00ff9d" stroke-width="1.5" stroke-linecap="square"/>
+    <line class="tick-left" x1="22" y1="70" x2="30" y2="70" stroke="#00ff9d" stroke-width="1.5" stroke-linecap="square"/>
   </g>
+
+  <text x="122" y="62" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="30" font-weight="700" fill="#ffffff" letter-spacing="3" dominant-baseline="middle">kyn</text>
+  <text x="122" y="86" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="8" font-weight="400" fill="#00ff9d" letter-spacing="4" opacity="0.75" dominant-baseline="middle">PRECISION THAT THINKS</text>
 </svg>
