@@ -35,4 +35,4 @@ To request a written asset license:
 **legal@hyperpiai.com**
 
 Official name: **Kyn AI**
-Official username: **KynAI**
+Official username: **Kyn-AI**

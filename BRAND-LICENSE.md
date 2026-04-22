@@ -13,4 +13,4 @@ All logo, SVG, and brand-design rights remain proprietary unless written permiss
 Contact: **legal@hyperpiai.com**
 
 Official name: **Kyn AI**
-Official username: **KynAI**
+Official username: **Kyn-AI**

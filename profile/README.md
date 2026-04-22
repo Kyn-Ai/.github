@@ -7,7 +7,7 @@
 
 # Kyn AI
 
-**Frontier AI Research & Engineering**
+**Precision That Thinks**
 
 `Official name: Kyn AI` · `Official username: KynAI`
 
@@ -33,7 +33,7 @@
 Kyn AI is an independent frontier AI research organization focused on building reliable,
 high-impact intelligent systems. We prioritize scientific depth, engineering rigor, and long-horizon execution.
 
-**We do not follow the curve — we define it.**
+We don't chase trends. We engineer durable intelligence — with rigor, reproducibility, and real‑world impact.
 
 <br/>
 

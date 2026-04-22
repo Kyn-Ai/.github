@@ -17,4 +17,4 @@ Unauthorized use may be enforced through GitHub trademark reporting and other av
 Contact: **legal@hyperpiai.com**
 
 Official name: **Kyn AI**
-Official username: **KynAI**
+Official username: **Kyn-AI**
