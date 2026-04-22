@@ -7,7 +7,10 @@ For active, binding terms, use:
 - [TRADEMARKS.md](./TRADEMARKS.md)
 - [LICENSE](./LICENSE)
 
-HyperPi-Ai and Hyperπ-Ai refer to the same organization and brand origin.
+Kyn AI is the official brand name for this organization.
 All logo, SVG, and brand-design rights remain proprietary unless written permission is granted.
 
 Contact: **legal@hyperpiai.com**
+
+Official name: **Kyn AI**
+Official username: **Kyn-AI**
