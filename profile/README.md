@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KynAI/.github/main/kyn-ai-logo.svg"
+<img src="../kyn-ai-logo.svg"
      alt="Kyn AI" width="120" style="max-width:100%;height:auto;" />
 
 <br/>
@@ -11,12 +11,14 @@
 
 `Official name: Kyn AI` · `Official username: KynAI`
 
+`Official name: Kyn AI` · `Official username: KynAI`
+
 <br/>
 
-[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-black?style=flat-square&logo=scale&logoColor=white)](https://github.com/KynAI/.github/blob/main/LICENSE)
-[![Brand](https://img.shields.io/badge/Brand_Assets-Protected-red?style=flat-square&logo=shieldsdotio&logoColor=white)](https://github.com/KynAI/.github/blob/main/ASSET_LICENSE.md)
-[![Trademark](https://img.shields.io/badge/Trademark-Enforced-darkred?style=flat-square&logo=datadog&logoColor=white)](https://github.com/KynAI/.github/blob/main/TRADEMARKS.md)
-[![Status](https://img.shields.io/badge/Status-Active_Research-brightgreen?style=flat-square)](https://github.com/KynAI)
+[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-black?style=flat-square&logo=scale&logoColor=white)](../LICENSE)
+[![Brand](https://img.shields.io/badge/Brand_Assets-Protected-red?style=flat-square&logo=shieldsdotio&logoColor=white)](../ASSET_LICENSE.md)
+[![Trademark](https://img.shields.io/badge/Trademark-Enforced-darkred?style=flat-square&logo=datadog&logoColor=white)](../TRADEMARKS.md)
+[![Status](https://img.shields.io/badge/Status-Active_Research-brightgreen?style=flat-square)](../)
 
 <br/>
 
@@ -71,9 +73,9 @@ We believe durable AI progress comes from disciplined research and uncompromisin
 
 | Asset | Terms |
 |:--|:--|
-| Repository content (default) | [LICENSE](https://github.com/KynAI/.github/blob/main/LICENSE) — proprietary unless a separate explicit written license is granted |
-| Logos, SVGs, visual identity | [ASSET_LICENSE.md](https://github.com/KynAI/.github/blob/main/ASSET_LICENSE.md) — no reuse, modification, derivative works, or redistribution without written permission |
-| Names and marks (`Kyn AI`) | [TRADEMARKS.md](https://github.com/KynAI/.github/blob/main/TRADEMARKS.md) — no brand use, handles, domains, or implied affiliation without authorization |
+| Repository content (default) | [LICENSE](../LICENSE) — proprietary unless a separate explicit written license is granted |
+| Logos, SVGs, visual identity | [ASSET_LICENSE.md](../ASSET_LICENSE.md) — no reuse, modification, derivative works, or redistribution without written permission |
+| Names and marks (`Kyn AI`) | [TRADEMARKS.md](../TRADEMARKS.md) — no brand use, handles, domains, or implied affiliation without authorization |
 
 > Kyn AI is the official brand name for this organization. Rights may be enforced through applicable U.S. and Indian legal channels, including GitHub DMCA/trademark mechanisms.
 
@@ -89,6 +91,6 @@ Permission and legal contact: **legal@hyperpiai.com**
 
 <br/>
 
-*© 2026 Kyn AI — Proprietary rights reserved. See [LICENSE](https://github.com/KynAI/.github/blob/main/LICENSE), [ASSET_LICENSE.md](https://github.com/KynAI/.github/blob/main/ASSET_LICENSE.md), and [TRADEMARKS.md](https://github.com/KynAI/.github/blob/main/TRADEMARKS.md).*
+*© 2026 Kyn AI — Proprietary rights reserved. See [LICENSE](../LICENSE), [ASSET_LICENSE.md](../ASSET_LICENSE.md), and [TRADEMARKS.md](../TRADEMARKS.md).*
 
 </div>
