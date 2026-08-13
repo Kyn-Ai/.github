@@ -5,13 +5,13 @@
 
 <br/>
 
-# Kyn AI
+# Kyn 
 
 **Precision That Thinks**
 
 
 
-`Official name: Kyn AI` · `Official username: Kyn-AI`
+`Official name: Kyn ` · `Official username: Kyn-AI`
 
 <br/>
 
@@ -32,7 +32,7 @@
 
 ## About
 
-Kyn AI is an independent frontier AI research organization focused on building reliable,
+Kyn  is an independent frontier AI research organization focused on building reliable,
 high-impact intelligent systems. We prioritize scientific depth, engineering rigor, and long-horizon execution.
 
 We don't chase trends. We engineer durable intelligence — with rigor, reproducibility, and real‑world impact.
@@ -50,7 +50,7 @@ We don't chase trends. We engineer durable intelligence — with rigor, reproduc
 
 ## Model Status
 
-> Kyn AI foundation models are currently **private and in active development**.
+> Kyn  foundation models are currently **private and in active development**.
 > Public release details (if and when announced) will appear on this profile first.
 
 | Model Family | Scope | Availability |
@@ -87,10 +87,10 @@ Permission and legal contact: **getkynai@gmail.com**
 
 <div align="center">
 
-**Kyn AI** &nbsp;·&nbsp; Frontier AI &nbsp;·&nbsp; Built with Precision
+**Kyn ** &nbsp;·&nbsp; Frontier AI &nbsp;·&nbsp; Built with Precision
 
 <br/>
 
-*© 2026 Kyn AI — Proprietary rights reserved. See [LICENSE](../LICENSE), [ASSET_LICENSE.md](../ASSET_LICENSE.md), and [TRADEMARKS.md](../TRADEMARKS.md).*
+*© 2026 Kyn  — Proprietary rights reserved. See [LICENSE](../LICENSE), [ASSET_LICENSE.md](../ASSET_LICENSE.md), and [TRADEMARKS.md](../TRADEMARKS.md).*
 
 </div>
