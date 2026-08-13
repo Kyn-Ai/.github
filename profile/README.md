@@ -11,7 +11,7 @@
 
 
 
-`Official name: Kyn ` · `Official username: Kyn-AI`
+`Official name: Kyn ` · `Official username: GetKyn`
 
 <br/>
 
